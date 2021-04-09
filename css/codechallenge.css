@@ -1,0 +1,44 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Georgia", cursive;
+}
+
+h2 {
+    color: #c530b1;
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+.site-footer {
+    background-image: linear-gradient(#c8ffe1, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right,#dc3545,#198754, #0dcaf0);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+.navbar-dark {
+    background-color: #ffc107;
+}
+
+.carousel-caption {
+    background-color: rgba(221, 13, 13, 0.5);
+}
+
+.carousel {
+    border: solid #fd7e14;
+}
